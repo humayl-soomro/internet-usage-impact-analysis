@@ -75,12 +75,12 @@ To statistically validate relationships between internet usage and societal fact
 
 ---
 
-## **6. Tools & Technologies**  
+## **5. Tools & Technologies**  
 - **Programming Language:** Python  
 - **Libraries:** pandas, numpy, seaborn, matplotlib  
 - **Data Sources:** Data sources listed in the Data Sources and Collection section  
 
 ---
 
-## **8. Conclusion**  
+## **6. Conclusion**  
 After this study, these insights can inform us of better decision-making with regards to internet consumption and help us maximize the benefits of internet connectivity while keeping the negative effects as low as possible. Most importantly, the project will provide a balanced view of internet usage, emphasizing the importance of **mindful digital habits** to optimize **education, productivity, and mental health outcomes**.  
